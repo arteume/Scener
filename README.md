@@ -23,5 +23,4 @@ Detailed documentation is available at https://github.com/CAOR-XRteam/scener_uni
 
 ## 2. Server
 
-
 Detailed documentation is available at https://github.com/CAOR-XRteam/scener_server

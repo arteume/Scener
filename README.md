@@ -19,8 +19,8 @@ It consists of two main components:
 
 ## 2. Client
 
-Detailed documentation is available in the [dedicated repository](https://github.com/CAOR-XRteam/scener_unity)
+Detailed documentation is available in the [dedicated repository](https://github.com/CAOR-XRteam/scener_unity).
 
 ## 3. Server
 
-Detailed documentation is available in the [dedicated repository](https://github.com/CAOR-XRteam/scener_server)
+Detailed documentation is available in the [dedicated repository](https://github.com/CAOR-XRteam/scener_server).

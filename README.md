@@ -4,7 +4,7 @@ This project provides an interactive system for generating and visualizing 3D ob
 It consists of two main components:  
 
 1. **Client (Unity Application)** – User-facing application for interaction, visualization, and 3D rendering.  
-2. **Server (Python WebSocket Application)** – Backend managing connections, routing user requests through an agentic AI, and returning structured results (text, 3D JSON scene descriptions, and binary assets).  
+2. **Server (Python WebSocket Application)** – Backend managing connections, routing user requests through an agentic AI, and returning structured results (text, 3D JSON scene descriptions, binary assets).  
 
 ---
 

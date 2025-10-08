@@ -21,6 +21,6 @@ It consists of two main components:
 
 Detailed documentation is available in the [dedicated repository](https://github.com/CAOR-XRteam/scener_unity)
 
-## 2. Server
+## 3. Server
 
 Detailed documentation is available in the [dedicated repository](https://github.com/CAOR-XRteam/scener_server)

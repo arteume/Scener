@@ -1,6 +1,6 @@
 # Scener (3D Scene Generation Platform)
 
-This project provides an interactive system for generating and visualizing 3D objects and scenes.  
+This project provides an open-source interactive system for generating and visualizing 3D objects and scenes.  
 It consists of two main components:  
 
 1. **Client (Unity Application)** – User-facing application for interaction, visualization, and 3D rendering.  
